@@ -1,0 +1,25 @@
+.highlights{
+    position: absolute;
+    top: 80px;
+    left: 280px;
+    display: flex;
+    width: 1086px;  
+    justify-content: space-around;
+}
+
+.chart{
+    position: absolute;
+    right: 30px;
+    top: 230px;
+}
+
+.dispayedPackages{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 845px;
+    top: 212px;
+    left: 207px;
+    padding: 5px;
+}
