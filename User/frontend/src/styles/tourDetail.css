@@ -1,0 +1,74 @@
+.tourimage{
+    position: absolute;
+    width: 580px;
+    height: 250px;
+    left: 50px;
+    top: 160px;
+}
+
+.tourName{
+    position: absolute;
+    font-family: emoji;
+    top: 100px;
+    left: 50px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.tourDescription{
+    position: absolute;
+    top: 160px;
+    right: 100px;
+    width: 650px;
+    height: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.tourDestinations{
+    position: absolute;
+    top: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 800px;
+    height: auto;
+    left: 0px;
+    padding: 10px;
+}
+
+.tourPrice{
+    font-size: 24px;
+    font-family: emoji;
+    font-weight: 600;
+    color: orange;
+}
+
+.destTag{
+    position: absolute;
+    left: 50px;
+    top: 560px;
+    font-size: 26px;
+    font-family: emoji;
+    font-weight: 600;
+    color: #242424;
+}
+
+.Dplace{
+    font-size: 20px;
+    color: #242424;
+}
+
+.packdetails{
+    position: absolute;
+    top: 430px;
+    left: 50px;
+}
+
+.bookingsection{
+    position: absolute;
+    top: 630px;
+    width: 400px;
+    right: 150px;
+}

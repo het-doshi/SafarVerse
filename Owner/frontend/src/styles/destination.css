@@ -1,0 +1,30 @@
+.displayDestinations
+{
+    position: relative;
+    top: 160px;
+    height: auto;
+    left: 870px;
+    width: 574px;
+    padding: 20px;
+    
+}
+
+.destCard{
+    margin-top: 7px;
+    margin-bottom: 4px;
+}
+
+.destImage{
+    width: 498px;
+    height: 270px;
+    position: relative;
+    left: 18px;
+    top: 29px;
+    margin-bottom: 40px;
+}
+
+.packDetails{
+    position: fixed;
+    top: 480px;
+    left: 270px;
+}

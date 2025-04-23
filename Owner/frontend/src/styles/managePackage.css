@@ -1,0 +1,31 @@
+.upper{
+    position: absolute;
+    width: 1000px;
+    top: 85px;
+    left: 250px;
+}
+
+.tagLine{
+    font-family: emoji;
+    font-weight: 600;
+}
+
+.addPack{
+    padding: 5px;
+    border: 0px;
+    color: white;
+    border-radius: 3px;
+}
+
+.displayPackages{
+    position: absolute;
+    top: 179px;
+    left: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 1200px;
+    height: auto;
+    padding: 20px;
+}
+

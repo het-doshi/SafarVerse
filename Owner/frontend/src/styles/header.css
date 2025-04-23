@@ -1,0 +1,58 @@
+.navBar{
+    height: 4rem;
+    width: 2000px;
+    position: fixed;
+    top: 0px;
+    background: white;
+    z-index: 100;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3); /* Downward shadow */
+
+  }
+  
+  .hlogo{
+    position: absolute;
+    top: 10px;
+    width: 46px;
+    height: 39px;
+    left: 20px;
+  }
+  
+  .brandName{
+      font-family: cursive;
+      color: grey;
+      font-size: 25px;
+      position: fixed;
+      left: 120px;
+      top:15px;
+  }
+  
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      position: fixed;
+      right: 100px;
+      top: 5px;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    .nav-links {
+      display: block;
+      color: rgb(41, 137, 255);
+      text-align: center;
+      font-weight: 500;
+      padding: 14px 16px;
+      font-size: 19px;
+      text-decoration: none;
+    }
+    
+    .userIcon{
+      position: relative;
+      right: 97px;
+      top: 12px;
+    }
+  
