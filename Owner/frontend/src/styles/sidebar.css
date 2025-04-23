@@ -1,0 +1,32 @@
+.sidebarBody{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    background-color: #2e4059;
+    top: 65px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+  }
+  
+  .itembody{
+    display: flex;
+    width: 200px;
+    border-bottom: dashed 1px white;
+    margin-top: 10px;
+    padding-bottom: 5px;
+  }
+  
+  .icon{
+    color: white;
+    width: 30%;
+    margin-left: 10px;
+  }
+  
+  .ititle{
+   color: white;
+   width: 70%;
+  }
+  
+  li :hover{
+    color: grey;
+    cursor: pointer;
+  }

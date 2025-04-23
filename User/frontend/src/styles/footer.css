@@ -1,0 +1,32 @@
+.footer {
+
+    margin-top: 64px;
+    padding-bottom: 25px;
+
+}
+
+.footer .logo img {
+    display: block;
+    width: 50%;
+    margin: 0 auto 1rem auto;
+}
+
+.footer .logo p {
+    color: var(--text-color);
+    text-align: center;
+}
+
+.contact{
+    text-align: justify;
+    position: relative;
+    left: 200px;
+    top: 120px;
+}
+
+
+.copyright{
+    color: var(--text-color);
+    font: 1rem;
+    text-align: center
+}
+

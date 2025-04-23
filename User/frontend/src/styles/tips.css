@@ -1,0 +1,43 @@
+.tagsection
+{
+    position: absolute;
+    top: 142px;
+    left: 570px;
+}
+
+.posts
+{
+    position: relative;
+    top: 228px;
+    height: auto;
+    left: 326px;
+    width: 1000px;
+    padding: 20px;
+}
+
+.sharetrip
+{
+    position: absolute;
+    top: 6px;
+    height: 428px;
+}
+
+.shTagline{
+    position: absolute;
+    top: 350px;
+    font-size: 16px;
+    left: 18px;
+    font-weight: 600;
+}
+
+.shareTip{
+    position: absolute;
+    top: 400px;
+    left: 147px;
+    font-size: 18px;
+    padding: 5px;
+    color: white;
+    border-radius: 4px;
+    border: 1px white solid;
+    background: rgb(59, 147, 255);
+}

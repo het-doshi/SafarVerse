@@ -1,0 +1,118 @@
+.navBar{
+  height: 5rem;
+  width: 2000px;
+  position: fixed;
+  top: 0px;
+  background: white;
+  z-index: 100;
+}
+
+.hlogo{
+  position: absolute;
+  top: 10px;
+  width: 76px;
+  height: 69px;
+}
+
+.brandName{
+    font-family: cursive;
+    color: grey;
+    font-size: 30px;
+    position: fixed;
+    left: 120px;
+    top:25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    right: 300px;
+    top: 15px;
+    /* border: 1px solid black; */
+  }
+  
+  li {
+    float: left;
+  }
+  
+  .nav-links {
+    display: block;
+    color: rgb(41, 137, 255);
+    text-align: center;
+    font-weight: 500;
+    padding: 14px 16px;
+    font-size: 19px;
+    text-decoration: none;
+  }
+  
+  
+  .nav-links:hover {
+    color: grey;
+  }
+
+  .logout{
+    position: fixed;
+    right: 141px;
+    height: 35px;
+    width: 105px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+    top: 26px;
+  }
+
+  .registration{
+    position: fixed;
+    right: 80px;
+    height: 35px;
+    width: 105px;
+    color: black;
+    background-color: transparent;
+    border: 0px;
+    font-size: 20px;
+    font-weight: 600;
+    top: 29px;
+  }
+
+  .login{position: fixed;
+    right: 209px;
+    height: 35px;
+    width: 85px;
+    background-color: transparent;
+    color: rgb(41, 137, 255);
+    font-size: 20px;
+    font-weight: 600;
+    border: 0px;
+    top: 29px;
+  }
+
+  .login:hover{
+    background-color:grey;
+    border-radius: 20px;
+    font-weight: 600;
+    color: black;
+  }
+
+  .registration:hover{
+    background-color: black;
+    border-radius: 20px;
+    font-weight: 600;
+    color: white;
+  }
+
+  .oul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    right: 320px;
+    top: 19px;
+    font-size: 23px;
+    font-weight: 600;
+    /* border: 1px solid black; */
+  }

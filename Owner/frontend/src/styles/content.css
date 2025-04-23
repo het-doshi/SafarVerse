@@ -1,0 +1,17 @@
+.ph{
+    position: absolute;
+    right: 80px;
+    top: 100px;
+    width: 500px;
+}
+
+.posts
+{
+    position: relative;
+    top: 100px;
+    height: auto;
+    left: 870px;
+    width: 574px;
+    padding: 20px;
+    
+}

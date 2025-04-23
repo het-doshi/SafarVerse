@@ -1,0 +1,31 @@
+.tourCard {
+    width: 350px;
+    height: 379px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.tourImage {
+    width: 85%;
+    height: 150px;
+    object-fit: cover;
+    position: relative;
+    top: 20px;
+    left: 21px;
+}
+
+.CardBody {
+    position: relative;
+    padding: 10px; 
+    top: 30px;
+    left: 0px;
+}
+
+.destB{
+   margin-right: 20px;
+}
+
+.deltB{
+    margin-right: 21px;
+ }

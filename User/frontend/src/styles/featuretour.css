@@ -1,0 +1,41 @@
+.tourImage {
+    position: absolute;
+    top: 90px;
+    width: 1466px;
+    height: 345px;
+    background: linear-gradient(#0b0b0b73, #0736f073);
+}
+
+.tourTag {
+    position: absolute;
+    top: 209px;
+    left: 461px;
+    font-size: 41px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    z-index: 50;
+    font-family: emoji;
+}
+
+.glass {
+    position: absolute;
+    top: 90px;
+    height: 345px;
+    width: 1466px;
+    background: rgba(0, 48, 146, 0.70);
+}
+
+.featureList {
+    position: relative;
+    top: 461px;
+    margin-left: 28px;
+    height: fit-content;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+
